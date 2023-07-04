@@ -1,0 +1,7 @@
+# Geo feed for Kerfuffle, LLC in RFC 8805 format
+# https://tools.ietf.org/html/rfc8805
+# address,country,region,city,postal
+194.246.109.0/24,US,US-CA,Fremont,94539
+23.153.56.0/24,US,US-CA,Fremont,94539
+2001:67c:760::/48,US,US-CA,Fremont,94539
+2602:2d5::/40,US,US-CA,Fremont,94539
